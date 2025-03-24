@@ -12,4 +12,8 @@ class Shivam{
    public static void notifyUser(){
     System.out.println("Hi Done");
    }
+
+   public static void Auth(){
+    System.out.println("Auth");
+   }
 }
