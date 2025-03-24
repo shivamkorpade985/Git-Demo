@@ -8,4 +8,8 @@ class Shivam{
    {
     System.out.println("m1");
    }
+
+   public static void notifyUser(){
+    System.out.println("Hi Done");
+   }
 }
